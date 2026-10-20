@@ -2,5 +2,7 @@
   "url": "https://github.com/tkddlr0716-collab/greenchiz-vpn",
   "repository": "tkddlr0716-collab/greenchiz-vpn",
   "visibility": "public",
-  "contents": "Public promotional copy and original brand cards only"
+  "contents": "Public trial release, public guides and original brand cards; private operational source remains separate",
+  "current_release": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/tag/next-0.7.1-dev",
+  "current_version": "0.7.1-dev"
 }
