@@ -50,6 +50,6 @@ Greenchiz is a Korean Windows VPN service in free testing. The current download 
 
 ## 최신 시험판 다운로드
 
-[NEXT 0.7.1 릴리스 안내와 파일](https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/tag/next-0.7.1-dev) · [홈페이지 다운로드](https://greenchiz.com/download)
+[NEXT 0.7.1 릴리스 안내와 파일](https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/tag/next-0.7.1-r2) · [홈페이지 다운로드](https://greenchiz.com/download)
 
-Windows x64 · 56,635,864 bytes · ZIP 전체 압축 해제 후 GreenchizNext.exe 실행. `_internal` 폴더를 함께 유지하세요. 기존 버전과 동시에 VPN을 제어하지 마세요. 모든 게임의 실제 입장과 보조 프로세스 호환성을 검증한 것은 아닙니다.
+Windows x64 · 44,233,065 bytes · ZIP 전체 압축 해제 후 GreenchizNext.exe 실행. `_internal` 폴더를 함께 유지하세요. 기존 버전과 동시에 VPN을 제어하지 마세요. 모든 게임의 실제 입장과 보조 프로세스 호환성을 검증한 것은 아닙니다.
