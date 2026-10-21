@@ -15,7 +15,7 @@
 ## 시작 순서
 
 1. [사이트 회원가입](https://greenchiz.com/member/signup)에서 이메일 인증과 비밀번호 설정을 마치세요.
-2. [NEXT 0.7.2 시험판 ZIP](https://greenchiz.com/download) 전체를 짧은 경로에 풀고 GreenchizNext.exe를 실행하세요.
+2. [NEXT 0.7.3 시험판 ZIP](https://greenchiz.com/download) 전체를 짧은 경로에 풀고 GreenchizNext.exe를 실행하세요.
 3. 넥슨 런처를 설치하고 한 번 실행한 뒤 완전히 종료하세요.
 4. 그린치즈 앱에 사이트와 같은 그린치즈 계정으로 로그인하고 연결 안내를 따르세요.
 
@@ -27,7 +27,7 @@
 | --- | --- |
 | 이용 요금 | 무료 테스트 운영 |
 | 운영체제 | Windows |
-| 현재 기본 다운로드 | NEXT 0.7.2-dev · Windows x64 시험판 ZIP |
+| 현재 기본 다운로드 | NEXT 0.7.3-dev · Windows x64 시험판 ZIP |
 | 게임·브라우저·런처 선택 | NEXT 시험판에서 설치된 실행 파일 등록 후 선택 |
 
 환경에 따라 연결 품질과 호환성이 다를 수 있으며 게임 접속, 지연 시간 감소 또는 제재 면제를 보장하지 않습니다. 그린치즈는 넥슨과 제휴하지 않은 독립 서비스입니다.
@@ -46,10 +46,10 @@
 
 ## English summary
 
-Greenchiz is a Korean Windows VPN service in free testing. The current download is the NEXT 0.7.2-dev Windows x64 trial ZIP with selected-application routing for installed games, browsers and launchers. Extract the entire ZIP and run GreenchizNext.exe. The old Nexon-specific 0.1.38 client remains a separate legacy download. This repository contains public guides and original promotional assets. It does not contain the private client/server source or operational credentials. No game access, latency or sanction-exemption guarantees are made. Independent from Nexon.
+Greenchiz is a Korean Windows VPN service in free testing. The current download is the NEXT 0.7.3-dev Windows x64 trial ZIP with selected-application routing for installed games, browsers and launchers. Extract the entire ZIP and run GreenchizNext.exe. The old Nexon-specific 0.1.38 client remains a separate legacy download. This repository contains public guides and original promotional assets. It does not contain the private client/server source or operational credentials. No game access, latency or sanction-exemption guarantees are made. Independent from Nexon.
 
 ## 최신 시험판 다운로드
 
-[NEXT 0.7.2 릴리스 안내와 파일](https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/tag/next-0.7.2-dev) · [홈페이지 다운로드](https://greenchiz.com/download)
+[NEXT 0.7.3 릴리스 안내와 파일](https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/tag/next-0.7.3-dev) · [홈페이지 다운로드](https://greenchiz.com/download)
 
-Windows x64 · 44,236,830 bytes · ZIP 전체 압축 해제 후 GreenchizNext.exe 실행. `_internal` 폴더를 함께 유지하세요. 기존 버전과 동시에 VPN을 제어하지 마세요. 모든 게임의 실제 입장과 보조 프로세스 호환성을 검증한 것은 아닙니다.
+Windows x64 · 44,243,935 bytes · ZIP 전체 압축 해제 후 GreenchizNext.exe 실행. `_internal` 폴더를 함께 유지하세요. 기존 버전과 동시에 VPN을 제어하지 마세요. 모든 게임의 실제 입장과 보조 프로세스 호환성을 검증한 것은 아닙니다.
