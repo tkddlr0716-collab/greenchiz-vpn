@@ -3,6 +3,9 @@
   "repository": "tkddlr0716-collab/greenchiz-vpn",
   "visibility": "public",
   "contents": "Public trial release, public guides and original brand cards; private operational source remains separate",
-  "current_release": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/tag/next-0.8.3-dev",
-  "current_version": "0.8.3-dev"
+  "current_release": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/tag/next-0.8.4-dev",
+  "current_version": "0.8.4-dev",
+  "release_scope": "Redacted advisory diagnostics only; no routing, driver, DNS or automatic Nexon component registration changes; reported Nexon connectivity failure not verified resolved",
+  "bytes": 44488039,
+  "sha256": "a2f7859e4b30649b6c7f4dd8522e3c1eff8c37be5d78698f561427cc0f6463db"
 }
