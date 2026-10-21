@@ -3,11 +3,11 @@
   "repository": "tkddlr0716-collab/greenchiz-vpn",
   "visibility": "public",
   "contents": "Public trial release, public guides and original brand cards; private operational source remains separate",
-  "current_release": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/tag/next-0.8.6-dev",
-  "current_download": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/download/next-0.8.6-dev/GreenchizNext-0.8.6-dev-Windows-x64.zip",
-  "current_version": "0.8.6-dev",
-  "release_scope": "In-app public service notices, partnership contact area and dialog spacing; existing explicit application-file confirmation and VPN runtime remain unchanged",
-  "verification_scope": "Package integrity and public HTTPS notice schema checked; 96 privileged runtime files byte-identical to 0.8.5. Limited one-PC game-path observations belong to the earlier 0.8.5 version, not new 0.8.6 game compatibility proof; no all-traffic, all-PC or all-game guarantee",
-  "bytes": 44513771,
-  "sha256": "e4a31492cb4ed0dfbd7a5015ef891afe603da271972787ba9d0765fb0dac3f39"
+  "current_release": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/tag/next-0.8.7-dev",
+  "current_download": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/download/next-0.8.7-dev/GreenchizNext-0.8.7-dev-Windows-x64.zip",
+  "current_version": "0.8.7-dev",
+  "release_scope": "Transient connection retries within existing authorization, exact app-change request replay and bounded retry/termination diagnostics; Python runtime rebuilt, kernel drivers and native connection controller unchanged",
+  "verification_scope": "Package checks plus memory/local-loopback fault tests; 92 of 96 runtime files unchanged and four rebuilt runtime/bootstrap/manifest files. This PC app execution and three authenticated paths observed; no fault injection during a live game or all-PC/long-run game stability proof. Earlier 0.8.5 game observations remain historical",
+  "bytes": 44523892,
+  "sha256": "d402782eac19f05bb035137c3e0a227267a989248d49d8a7c4348ed71e24c8bd"
 }
