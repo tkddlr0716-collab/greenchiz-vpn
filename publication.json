@@ -3,11 +3,11 @@
   "repository": "tkddlr0716-collab/greenchiz-vpn",
   "visibility": "public",
   "contents": "Public trial release, public guides and original brand cards; private operational source remains separate",
-  "current_release": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/tag/next-0.8.7-dev",
-  "current_download": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/download/next-0.8.7-dev/GreenchizNext-0.8.7-dev-Windows-x64.zip",
-  "current_version": "0.8.7-dev",
-  "release_scope": "Transient connection retries within existing authorization, exact app-change request replay and bounded retry/termination diagnostics; Python runtime rebuilt, kernel drivers and native connection controller unchanged",
-  "verification_scope": "Package checks plus memory/local-loopback fault tests; 92 of 96 runtime files unchanged and four rebuilt runtime/bootstrap/manifest files. This PC app execution and three authenticated paths observed; no fault injection during a live game or all-PC/long-run game stability proof. Earlier 0.8.5 game observations remain historical",
-  "bytes": 44523892,
-  "sha256": "d402782eac19f05bb035137c3e0a227267a989248d49d8a7c4348ed71e24c8bd"
+  "current_release": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/tag/next-0.8.8-dev",
+  "current_download": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/download/next-0.8.8-dev/GreenchizNext-0.8.8-dev-Windows-x64.zip",
+  "current_version": "0.8.8-dev",
+  "release_scope": "Standard-user host approval-guidance popup behavior and version labels; privileged connection engine remains 0.8.7 with all 96 resources byte-identical to 0.8.7",
+  "verification_scope": "Seven popup, three host metadata and one build isolation tests; ZIP CRC/source guard, read-only startup and WebView checks. No new live-game fault injection, game admission or all-PC/long-running game stability proof. Earlier game connection observations remain historical",
+  "bytes": 44527131,
+  "sha256": "0ecbb09ab756581d80ff5f476b763279391befb03fe8514ce2692e024b7d0a4e"
 }
