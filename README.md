@@ -2,7 +2,7 @@
 
 **글클메 시작 전, 연결부터 준비하세요.**
 
-글로벌 메이플스토리 클래식 월드 출시를 준비하는 한국 Windows 이용자를 위한 무료 VPN 테스트 서비스입니다. 서비스 운영자가 제공하는 공개 안내입니다.
+글로벌 메이플스토리 클래식 월드 출시를 준비하는 한국 Windows 이용자를 위한 VPN 서비스입니다. 넥슨 런처·메이플 클래식은 무료이며 다른 지원 Windows 앱은 유료 이용권 대상입니다. 결제는 준비 중입니다. 서비스 운영자가 제공하는 공개 안내입니다.
 
 [출시 준비 가이드](https://greenchiz.com/maplestory-classic?utm_source=github&utm_medium=readme&utm_campaign=classic_launch_20261022) · [무료 회원가입](https://greenchiz.com/member/signup) · [Windows 다운로드](https://greenchiz.com/download) · [고객지원](https://greenchiz.com/bugs)
 
@@ -15,7 +15,7 @@
 ## 시작 순서
 
 1. [사이트 회원가입](https://greenchiz.com/member/signup)에서 이메일 인증과 비밀번호 설정을 마치세요.
-2. [NEXT 0.8.10 시험판 ZIP](https://greenchiz.com/download) 전체를 짧은 경로에 풀고 GreenchizNext.exe를 실행하세요.
+2. [NEXT 0.8.11 시험판 ZIP](https://greenchiz.com/download) 전체를 짧은 경로에 풀고 GreenchizNext.exe를 실행하세요.
 3. 넥슨 런처를 설치하고 한 번 실행한 뒤 완전히 종료하세요.
 4. 그린치즈 계정으로 로그인하고 **라이브러리 앱 클릭 → 내 앱에 추가(사용 OFF) → 사용할 앱 ON → 통합 VPN 켜기** 순서로 진행하세요. 넥슨·메이플 전용 연결은 앱의 별도 안내를 따르세요.
 
@@ -25,15 +25,18 @@
 
 | 항목 | 현재 상태 |
 | --- | --- |
-| 이용 요금 | 무료 테스트 운영 |
+| 무료 대상 | 넥슨 런처·메이플스토리 클래식 월드 |
+| 유료 이용권 | 월 5,000원 · 1개월 · 결제 준비 중 |
+| 현재 제공 국가 | 미국 1개 |
 | 운영체제 | Windows |
-| 현재 기본 다운로드 | NEXT 0.8.10-dev · Windows x64 시험판 ZIP |
-| 게임·브라우저·런처 선택 | 앱 추가 창에서 설치·실행 중인 앱 여러 개 선택 |
+| 현재 기본 다운로드 | NEXT 0.8.11-dev · Windows x64 시험판 ZIP |
+| 앱 선택 | 추가는 사용 OFF로 저장 · 무료 대상 외 앱의 사용 ON은 서버의 유료 이용권 확인 필요 |
 
 환경에 따라 연결 품질과 호환성이 다를 수 있으며 게임 접속, 지연 시간 감소 또는 제재 면제를 보장하지 않습니다. 그린치즈는 넥슨과 제휴하지 않은 독립 서비스입니다.
 
 ## 도움이 되는 안내
 
+- [이용권·구독 안내](https://greenchiz.com/subscription)
 - [회원가입부터 연결까지](https://greenchiz.com/guides/greenchiz-start)
 - [넥슨 런처를 설치했는데 연결이 안 될 때](https://greenchiz.com/guides/nexon-launcher)
 - [실제 개발판 앱 화면](https://greenchiz.com/#app-preview)
@@ -46,9 +49,27 @@
 
 ## English summary
 
-Greenchiz is a Korean Windows VPN service in free testing. The current download is the NEXT 0.8.10-dev Windows x64 trial ZIP. It adds a US-only region selector, VPN exit-IP confirmation and fresh relay-probe ping, and keeps focused controls and expanded menus stable during status updates. Missing or stale measurements remain pending; relay ping is not in-game latency. Background status refresh and actual user work are presented separately while controller operations remain serialized and scoped, with one limited waiting request cancelled after its deadline. The privileged connection resources remain 0.8.7; all 96 files and the WebView helper are unchanged. This host/UI release does not change the VPN transport or drivers, establish the cause of earlier packet loss, or prove game continuity. Extract the entire ZIP and run GreenchizNext.exe. Add apps to your list, enable their use and turn on the master VPN switch. This repository contains public guides and original brand cards, not private client/server source or credentials. No game admission, latency or sanction-exemption guarantees are made. Independent from Nexon.
+Greenchiz is a Windows VPN service. Nexon Launcher and MapleStory Classic World are the free scope. Other supported Windows apps require a server-approved paid entitlement. The proposed monthly plan is KRW5,000 for one month; payment and renewal checkout are not available yet. Currently the US is the only offered country, including the paid country picker. The current download is NEXT 0.8.11-dev. Adding an app stores it OFF; activation in the supported updated product flow checks the authenticated server policy. A UI label, account name or ordinary entitled flag is not proof of payment. No complete adversarial old-client or raw-WireGuard blocking is claimed. The customer ZIP does not deploy server software. This public repository contains marketing and binary releases, not private application/server source or credentials. No game admission, latency, universal compatibility or uninterrupted-session guarantees are made. Independent from Nexon.
 
 ## 최신 시험판 다운로드
+
+[NEXT 0.8.11 릴리스 안내와 파일](https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/tag/next-0.8.11-dev) · [홈페이지 다운로드](https://greenchiz.com/download) · [이용권 안내](https://greenchiz.com/subscription)
+
+Windows x64 · 44,550,964 bytes · ZIP 전체 압축 해제 후 GreenchizNext.exe 실행. `_internal` 폴더를 함께 유지하세요.
+
+- **넥슨 런처·메이플스토리 클래식 월드는 무료**입니다. 다른 지원 Windows 앱은 유료 이용권 대상입니다.
+- 유료 이용권은 **월 5,000원·1개월**로 안내하며 **결제 준비 중**입니다. 현재 카드·계좌 입력, 주문, 구독 갱신 결제는 제공하지 않습니다.
+- 라이브러리에서 앱을 추가하는 것은 허용되며 사용 OFF로 저장합니다. 사용할 때 서버에서 이용 범위를 확인하고, 권한 확인 실패를 성공으로 표시하지 않습니다.
+- 현재 제공 국가는 **미국 한 곳**입니다. 유료 국가 선택도 현재 제공 목록인 미국에 한정됩니다.
+- 앱의 구독·갱신 버튼은 공식 홈페이지의 안내 링크입니다. 누르는 것만으로 결제하거나 유료 권한을 받지 않습니다.
+
+정상 업데이트 제품의 앱 활성화 흐름에 대한 정책입니다. 구버전·변조 클라이언트·원시 WireGuard의 모든 우회를 완전히 차단했다고 주장하지 않습니다. 서버 권한 지원은 별도로 반영하며 고객 ZIP이 서버 변경을 설치하지 않습니다. 게임 접속·호환성·무중단을 보장하지 않습니다.
+
+프로젝트 전체 소스·Python/C++ 원본·개발 문서·계정 저장소는 고객 ZIP에 포함하지 않습니다. 실행에 필요한 화면·타사 라이선스·해당 드라이버의 대응 소스는 유지합니다. 최종 파일 검증 기록을 확인하세요.
+
+배포 ZIP SHA-256: `36ff099177ec2bcbd67f4d8fb6d09d8aecfe571fdf88eebf4c92c1136cf96ce0`.
+
+### 이전 버전 기록 · 0.8.10
 
 [NEXT 0.8.10 릴리스 안내와 파일](https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/tag/next-0.8.10-dev) · [홈페이지 다운로드](https://greenchiz.com/download)
 
