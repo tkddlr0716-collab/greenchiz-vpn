@@ -3,9 +3,11 @@
   "repository": "tkddlr0716-collab/greenchiz-vpn",
   "visibility": "public",
   "contents": "Public trial release, public guides and original brand cards; private operational source remains separate",
-  "current_release": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/tag/next-0.8.4-dev",
-  "current_version": "0.8.4-dev",
-  "release_scope": "Redacted advisory diagnostics only; no routing, driver, DNS or automatic Nexon component registration changes; reported Nexon connectivity failure not verified resolved",
-  "bytes": 44488039,
-  "sha256": "a2f7859e4b30649b6c7f4dd8522e3c1eff8c37be5d78698f561427cc0f6463db"
+  "current_release": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/tag/next-0.8.5-dev",
+  "current_download": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/download/next-0.8.5-dev/GreenchizNext-0.8.5-dev-Windows-x64.zip",
+  "current_version": "0.8.5-dev",
+  "release_scope": "Explicit preview and confirmation of exact application file groups; saving does not activate VPN; saved and runtime-confirmed files are distinct",
+  "verification_scope": "One PC: user confirmed operation; exact ACK covered three Nexon files and one Classic game file; observed TCP sockets used tunnel addresses for nexon_client (16) and MapleStory (4), with no other observed TCP egress for those two processes; not an all-traffic, all-PC or all-game guarantee",
+  "bytes": 44503298,
+  "sha256": "9c32823ed5af0ced9e1b21ae8f490657a4b22736549e9cac90724feee75b2d39"
 }
