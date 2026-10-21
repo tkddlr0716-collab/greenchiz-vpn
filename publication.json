@@ -3,11 +3,11 @@
   "repository": "tkddlr0716-collab/greenchiz-vpn",
   "visibility": "public",
   "contents": "Public trial release, public guides and original brand cards; private operational source remains separate",
-  "current_release": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/tag/next-0.8.9-dev",
-  "current_download": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/download/next-0.8.9-dev/GreenchizNext-0.8.9-dev-Windows-x64.zip",
-  "current_version": "0.8.9-dev",
-  "release_scope": "Standard-user host version labels retaining 0.8.8 approval guidance; privileged runtime remains 0.8.7 with 96 byte-identical resources. Server WAL/read snapshots, session socket isolation and fixed service_unavailable busy responses are applied separately; server changes are not distributed in this customer ZIP",
-  "verification_scope": "130.14-second local synthetic 50-member test: 350 renewals, 350 completed jobs, 24800 authenticated echoes, 1210 ledger reads and 21 reads during a held writer. ZIP CRC/source guard, 96 runtime pins, read-only startup and WebView checks. No real 50-PC, external network or long-running game continuity proof; earlier game observations remain historical",
-  "bytes": 44528335,
-  "sha256": "ce8de945066f641783726e08247eb2b5493e4c8963155e94e0928a0866397a27"
+  "current_release": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/tag/next-0.8.10-dev",
+  "current_download": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/download/next-0.8.10-dev/GreenchizNext-0.8.10-dev-Windows-x64.zip",
+  "current_version": "0.8.10-dev",
+  "release_scope": "Customer host/UI: US-only region, exit-IP confirmation and fresh relay ping; stable focused controls and serialized scoped actions during background refresh. All 96 privileged resources remain 0.8.7 and the WebView helper is unchanged; no transport, driver, Chrome/Edge routing or server changes",
+  "verification_scope": "Offline connection-summary/controller/DOM/singleflight regression tests; ZIP CRC/source guard (own source0, UI11, corresponding driver source2), 96 unchanged runtime pins, ordinary-user read-only packaged preflight and WebView check. No new game admission/continuity or all-PC proof and no assertion of the earlier packet-loss cause",
+  "bytes": 44535516,
+  "sha256": "a641f5af6c945c3ac0f90ccd45c279bc140bb69469992cd57b2ac5534245d3f1"
 }
