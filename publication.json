@@ -1,13 +1,18 @@
 {
-  "url": "https://github.com/tkddlr0716-collab/greenchiz-vpn",
+  "schema": 1,
+  "name": "Fast Green",
+  "provider": "GREENCHIZ",
   "repository": "tkddlr0716-collab/greenchiz-vpn",
   "visibility": "public",
-  "contents": "Public trial release, public guides and original brand cards; private operational source remains separate",
-  "current_release": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/tag/next-0.8.11-dev",
-  "current_download": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/download/next-0.8.11-dev/GreenchizNext-0.8.11-dev-Windows-x64.zip",
-  "current_version": "0.8.11-dev",
-  "release_scope": "Nexon Launcher and MapleClassic free; other supported Windows app activation requires authenticated server-paid policy in the updated product flow. KRW5000 per month, payment and renewal checkout preparing. US-only country display and paid picker with one currently offered country. Public subscription link only; no payment operation or automatic permission upgrade.",
-  "verification_scope": "Local app-access UI, receipt/country, stable-control and registration/error-preservation fixtures. Final ZIP/build verification must be supplied separately. No claim of complete old-client/raw-WireGuard enforcement, all-PC compatibility, game admission or continuous sessions; server support is deployed separately.",
-  "bytes": 44550964,
-  "sha256": "36ff099177ec2bcbd67f4d8fb6d09d8aecfe571fdf88eebf4c92c1136cf96ce0"
+  "website_download": "https://greenchiz.com/download",
+  "release": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/tag/fastgreen-0.2.0-dev-f7",
+  "download": "https://github.com/tkddlr0716-collab/greenchiz-vpn/releases/download/fastgreen-0.2.0-dev-f7/Fastgreen-0.2.0-dev-F7-Setup-x64.exe",
+  "version": "0.2.0-dev",
+  "build": "F7",
+  "release_type": "development prerelease",
+  "bytes": 304411648,
+  "sha256": "13f6cfc2e215610303d570896e739c95290425881f5e59d4b92b6ef1c42bf683",
+  "verification_scope": "F7 actual installation and VPN ON have not been verified. F7 restores the GREENCHIZ logo and icon and uses the Fast Green display name; it includes F6 fixes for some connection-preparation permission errors.",
+  "availability": "Nexon Launcher and MapleStory Classic World are temporarily free. Other supported apps require an entitlement; payment is being prepared. One US route is offered.",
+  "claims": "Independent service; not affiliated with Nexon. No guarantee of game access, latency improvement, or compatibility on every PC."
 }

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Fast Green</title>
+  <desc id="desc">그린치즈의 Windows 연결 서비스. 넥슨 런처와 메이플스토리 클래식 월드 한시 무료.</desc>
+  <rect width="1200" height="630" rx="36" fill="#12251c"/>
+  <circle cx="1070" cy="80" r="280" fill="#1b3827"/>
+  <circle cx="1120" cy="570" r="190" fill="#284d31"/>
+  <g transform="translate(80 77) scale(2.7)">
+    <rect width="40" height="40" rx="6" fill="#f6f7f2"/>
+    <path d="M6 16 29 6l6 26-29 3Z" fill="#345c37"/>
+    <path d="M6 16 29 6 19 20Z" fill="#88b66a"/>
+    <circle cx="15" cy="27" r="2.5" fill="#f6f7f2"/>
+    <circle cx="28" cy="24" r="3" fill="#f6f7f2"/>
+    <path d="M6 22a3 3 0 0 1 0 7" fill="#f6f7f2"/>
+  </g>
+  <text x="215" y="132" fill="#b9d6a6" font-family="sans-serif" font-size="24" font-weight="600" letter-spacing="4">BY GREENCHIZ</text>
+  <text x="80" y="278" fill="#f6f7f2" font-family="sans-serif" font-size="94" font-weight="700">Fast Green</text>
+  <text x="84" y="350" fill="#cee4c2" font-family="sans-serif" font-size="32">글로벌 메이플스토리 클래식 월드를 위한 Windows 연결 서비스</text>
+  <rect x="80" y="407" width="550" height="65" rx="32" fill="#c5e5a4"/>
+  <text x="109" y="450" fill="#183621" font-family="sans-serif" font-size="26" font-weight="700">넥슨 런처 · 메이플 클래식 월드 한시 무료</text>
+  <text x="84" y="550" fill="#abc2ac" font-family="sans-serif" font-size="22">개발 시험판 · 설치 및 VPN 켜기 미검증 · 넥슨 비제휴</text>
+  <text x="84" y="590" fill="#abc2ac" font-family="sans-serif" font-size="22">greenchiz.com/download</text>
+</svg>
